@@ -1,0 +1,48 @@
+html{
+    font-size: 62.5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: wheat;
+    font-size: 1.6rem;
+}
+
+h1{
+    text-align: center;
+    font-size: 4rem;
+}
+
+img{
+    height: auto;
+    width: 33%;
+    margin: auto;
+    display: block;
+}
+
+h2{
+    font-size: 3rem;
+    font-weight: bold;  
+    margin-left: 10%; 
+}
+
+p{
+    margin: 10% 10%;
+    line-height: 1.5;
+}
+
+ul,li{
+    margin-left: 12%;
+    line-height: 2;
+}
+
+a{
+    display: block;
+    text-align: center;
+    font-size: 2rem;   
+}
+
+a:visited{
+    color: green;
+}
+
